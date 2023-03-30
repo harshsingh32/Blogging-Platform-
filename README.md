@@ -47,6 +47,8 @@ npm start
 
 Go to `http://localhost:3000` in your web browser to view the application.
 
+https://react-blogging-platform.netlify.app
+
 ## Features
 
 - Create new blog posts with a title, content, author, and date.
