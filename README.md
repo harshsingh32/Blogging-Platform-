@@ -51,11 +51,29 @@ https://react-blogging-platform.netlify.app
 
 ## Features
 
-- Create new blog posts with a title, content, author, and date.
-- View a list of all blog posts, sorted by date.
-- View a single blog post with its title, content, author, and date.
-- Edit an existing blog post.
-- Delete an existing blog post.
+1. Create new blog posts: Users can create new blog posts with a title, content, author, and date.
+
+2. View all blog posts: Users can view a list of all blog posts, sorted by date.
+
+3. View single blog post: Users can view a single blog post with its title, content, author, and date.
+
+4. Edit blog posts: Users can edit an existing blog post.
+
+5. Delete blog posts: Users can delete an existing blog post.
+
+6. Authentication: Add user authentication to the application so that only authenticated users can create, edit, or delete blog posts.
+
+7. Search: Add a search function to the application so that users can search for blog posts by keyword, date, author, or other criteria.
+
+8. Categories and tags: Add the ability to categorize blog posts by topic or tag, and allow users to filter blog posts by category or tag.
+
+9. Comments: Add the ability for users to leave comments on blog posts, and for authors to moderate and reply to comments.
+
+10. Analytics: Add analytics tracking to the application to monitor user behavior, traffic, and engagement.
+
+11. Sharing: Add social sharing functionality to the application to allow users to share blog posts on social media platforms.
+
+12. Responsive design: Ensure that the application is mobile-friendly and responsive, so that it can be easily accessed and used on a variety of devices.
 
 ## Technologies Used
 
