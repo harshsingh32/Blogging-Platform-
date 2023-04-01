@@ -81,6 +81,9 @@ https://react-blogging-platform.netlify.app
 - MongoDB Atlas
 - Express
 - Node.js
+- Javascript
+- HTML5
+- CSS
 
 ## Acknowledgements
 
