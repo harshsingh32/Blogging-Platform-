@@ -21,7 +21,7 @@ function Shell() {
   );
 }
 
-function html(x) {
+function html(bajjla) {
   return `<!DOCTYPE html>
   <html lang="en">
     <head>
