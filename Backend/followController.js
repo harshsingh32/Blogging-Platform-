@@ -20,6 +20,6 @@ exports.apiRemoveFollow = function(req, res) {
       res.json(true)
     })
     .catch(errors => {
-      res.json(true)
+      res.json(false)
     })
 }
