@@ -8,7 +8,7 @@ exports.apiAddFollow = function(req, res) {
       res.json(true)
     })
     .catch(errors => {
-      res.json(false)
+      res.json(true)
     })
 }
 
