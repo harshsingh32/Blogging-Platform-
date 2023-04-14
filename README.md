@@ -3,6 +3,8 @@
 
 This is a full-stack web application for creating and managing blog posts. It uses React Hooks for the front-end, and MongoDB Atlas, Express, and Node.js for the back-end.
 
+[🔗 Project](https://react-blogging-platform.netlify.app)
+
 ## Getting Started
 
 To run this application locally, you will need to have Node.js and npm installed on your machine. You will also need to create an account with MongoDB Atlas and obtain a connection string.
@@ -47,7 +49,6 @@ npm start
 
 Go to `http://localhost:3000` in your web browser to view the application.
 
-[🔗 Project](https://react-blogging-platform.netlify.app)
 
 ## Features
 
