@@ -47,7 +47,7 @@ npm start
 
 Go to `http://localhost:3000` in your web browser to view the application.
 
-https://react-blogging-platform.netlify.app
+[🔗 Project](https://react-blogging-platform.netlify.app)
 
 ## Features
 
