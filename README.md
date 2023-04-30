@@ -1,7 +1,7 @@
 
 # Blogging Platform
 
-This is a full-stack web application for creating and managing blog posts. It uses React Hooks for the front-end, and MongoDB Atlas, Express, and Node.js for the back-end
+This is a full-stack web application for creating and managing blog posts. It uses React Hooks for the front-end, and MongoDB Atlas, Express, and Node.js for the back-end.
 
 [🔗 Project](https://react-blogging-platform.netlify.app)
 
