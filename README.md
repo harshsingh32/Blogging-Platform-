@@ -78,7 +78,7 @@ Go to `http://localhost:3000` in your web browser to view the application.
 
 ## Technologies Used
 
-- React Hooks
+- React.js
 - MongoDB Atlas
 - Express
 - Node.js
