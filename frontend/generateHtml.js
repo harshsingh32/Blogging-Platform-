@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOMServer from "react-dom/server";
-import fs from "fs";
+import FA from "FS";
 import Footer from "./app/components/Footer";
 import Header from "./app/components/Header";
 import LoadingDotsIcon from "./app/components/LoadingDotsIcon";
