@@ -24,7 +24,7 @@ npm install
 
 3. Set up environment variables:
 
-Create a `.env` file in the root directory of the project, and add the following variables:
+Create a `.env` file in the root directory of the project, and add the following variables :
 
 ```
 PORT=5000
