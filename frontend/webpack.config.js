@@ -11,6 +11,8 @@ const fse = require("fs-extra");
   webpack workflow for this project I'm just
   manually copying our CSS file to the DIST folder. 
 */
+
+
 class RunAfterCompile {
   apply(compiler) {
     compiler.hooks.done.tap("Copy files", function () {
