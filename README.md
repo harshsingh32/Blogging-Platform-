@@ -6,7 +6,6 @@ This is a full-stack web application for creating and managing blog posts. It us
 [🔗 Project](https://react-blogging-platform.netlify.app)
 
 ## Getting Started
-
 To run this application locally, you will need to have Node.js and npm installed on your machine.
 
 You will also need to create an account with MongoDB Atlas and obtain a connection string.
