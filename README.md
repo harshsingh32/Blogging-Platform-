@@ -10,7 +10,6 @@ To run this application locally, you will need to have Node.js and npm installed
 You will also need to create an account with MongoDB Atlas and obtain a connection string.
 
 1. Clone the repository:
-
 ```
 git clone https://github.com/your-username/blogging-platform.git
 ```
