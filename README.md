@@ -50,7 +50,6 @@ Go to `http://localhost:3000` in your web browser to view the application.
 
 
 ## Features
-
 1. Create new blog posts: Users can create new blog posts with a title, content, author, and date.
 
 2. View all blog posts: Users can view a list of all blog posts, sorted by date.
